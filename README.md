@@ -2,4 +2,4 @@
 
 ![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
 
-## We will use this project for our Day4/16 video of Azure DevOps Zero to Hero series
+## We will use this project Azure DevOps
